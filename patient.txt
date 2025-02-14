@@ -1,0 +1,2 @@
+ID	NAME			AGE	GENDER	Diagnosis
+12	Ashim Adhikarei			18	M	Heart

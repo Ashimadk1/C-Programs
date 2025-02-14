@@ -1,0 +1,5 @@
+Name	 Address	 Roll no	 age	 Physics	 C	 Math	 Average
+Ashim 	aaaa	 11	 1	 111.00	 1.00	 1.00	 37.67
+ 1 	1	 1	 1	 1.00	 1.00	 1.00	 1.00
+ 1 	1	 1	 1	 1.00	 1.00	 1.00	 1.00
+ 
